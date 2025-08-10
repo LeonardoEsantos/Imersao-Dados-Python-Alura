@@ -40,13 +40,14 @@ O resultado final é um aplicativo web interativo que permite explorar os dados 
    ```bash
    streamlit run app.py
 
-📁 Estrutura do Projeto
-   ```bash
+## 📁 Estrutura do Projeto
+
+    ```bash
     📦 IMERSAOPYTHONAULA4
     ├── app.py               # Código principal do dashboard
     ├── requirements.txt     # Lista de dependências do projeto
     └── README.md            # Este arquivo
-
+    ```
 ## 🧠 Aprendizados
 
 Durante esse projeto, aprendi a:
