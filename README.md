@@ -47,7 +47,7 @@ O resultado final é um aplicativo web interativo que permite explorar os dados 
     ├── requirements.txt     # Lista de dependências do projeto
     └── README.md            # Este arquivo
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 
 Durante esse projeto, aprendi a:
 
@@ -55,6 +55,6 @@ Durante esse projeto, aprendi a:
 - Criar visualizações interativas com Plotly
 - Construir um dashboard funcional com Streamlit
 
-📌 Créditos
+## 📌 Créditos
 
 Este projeto foi desenvolvido com base no conteúdo da Imersão de Dados com Python da Alura.
