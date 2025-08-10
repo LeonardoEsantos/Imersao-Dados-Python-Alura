@@ -23,18 +23,21 @@ O resultado final é um aplicativo web interativo que permite explorar os dados 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeonardoEsantos/Imersao-Dados-Python-Alura.git
    cd seu-repositorio
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
+   ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
    venv\Scripts\activate  # Windows
 
 3. Instale as dependências:
+   ```bash
    pip install -r requirements.txt
 
 4. Execute o dashboard:
+   ```bash
    streamlit run app.py
 
 📁 Estrutura do Projeto
